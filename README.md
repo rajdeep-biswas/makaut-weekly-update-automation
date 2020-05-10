@@ -26,5 +26,5 @@ Also consider every variation that existed in your excel sheets for example, in 
 For professors: If you want all semesters' data, either add all your semesters to the variable or just change: bot.py line 47 'continue' to 'pass'.  
 Note: it's a good idea to keep both string and integer possibilities (as I've shown in the example) since I haven't taken the time to browse through all of the excel sheets (the entire point of automation) making sure they are consistent, and also to make it future proof (for any kind of excels that come in).  
 
-Leave a star if this has helped you save time!
+Leave a star if this has helped you save time!  
 From Rajdeep with ❤️
