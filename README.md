@@ -17,7 +17,7 @@ Make the following changes to bot.py (I promise this is one time and all the man
 1. Put in your username and password to the accordingly named string varibles.
 2. In the xlids variable, add week numbers which you desire to upload i.e just the filenames of the excel sheets (without extension).  
 3. To the teachers variable, add the names of teachers in concern to the dictionary from teachers.txt; key: "name as per excel sheet", value: "name as per portal".  
-I have fetched all teacher names from the portal into the txt file for your convenience; the spacing is very irregular and I wouldn't recommmend you guess and type or even follow the examples I have given (they are just for reference).  
+I haven't added all of them already because I do not know what your excel sheet might contain but I have fetched all teacher names from the portal into the txt file for your convenience; the spacing is very irregular and I wouldn't recommmend you guess and type or even follow the examples I have given (they are just for reference).  
 Note: I haven't experimented whether "&" works or "\&amp;" does (no one such in BCA), if you get errors, do interchange (currently, everyone is "&").  
 *WARNING*: Do NOT change any whitespacing even if they seem out of place; it is so in the portal and it has to stay consistent in order to work.  
 4. To the subjects variable, add the names of the subjects in concern in a similar key value pair as above; the "subject code" should be the index of the dropdown menu option of the portal.  
