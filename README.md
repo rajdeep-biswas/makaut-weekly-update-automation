@@ -23,4 +23,4 @@ Note: I haven't experimented whether "&" works or "\&amp;" does (no one such in 
 Also consider every variation that existed in your excel sheets for example, in my case, "Advanced Networking and Communication" and "Networking" refer to the same subject.
 4. To the semesters variable, add your concerned semester(s).  
 For professors: If you want all semesters' data, either add all your semesters to the variable or just change: bot.py line 47 'continue' to 'pass'.  
-Note: it's a good idea to keep both string and integer possibilities since I haven't taken the time to browse through all of the excel sheets (the entire point of automation) making sure they are consistent.  
+Note: it's a good idea to keep both string and integer possibilities (as I've shown in the example) since I haven't taken the time to browse through all of the excel sheets (the entire point of automation) making sure they are consistent, and also to make it future proof (for any kind of excels that come in).  
