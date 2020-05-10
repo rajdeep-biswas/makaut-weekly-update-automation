@@ -11,6 +11,7 @@ Excel sheets -
 1. Put your excel sheets in the sheets/ directory and rename them to n.xlsx where n is the week number
 2. Please make sure the first line (row) of your sheet DOES contain the header names (Semester, Subject, etc) and not just an empty row
 
+
 Make the following changes to bot.py (I promise this is one time and all the manual work you'll have to do) -
 
 1. Put in your username and password to the accordingly named string varibles
