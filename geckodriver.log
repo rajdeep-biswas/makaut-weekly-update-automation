@@ -1,0 +1,33 @@
+1591017453780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesEkb9t"
+1591017454688	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591017456391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591017456391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591017456391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591017456392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591017456456	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017456456	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017456457	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017456475	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017456475	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017456475	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017460742	Marionette	INFO	Listening on port 37795
+1591017460809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591017480065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaLybyl"
+1591017480689	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591017482267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591017482267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591017482267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591017482268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591017482300	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017482301	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017482301	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1591017482308	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017482308	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017482309	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1591017486091	Marionette	INFO	Listening on port 44817
+1591017486185	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1167:3
+
+1591017499602	Marionette	INFO	Stopped listening on port 37795
+1591017516008	Marionette	INFO	Stopped listening on port 44817

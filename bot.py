@@ -12,7 +12,7 @@ password = ""
 
 xlids = [2, 3, 4, 5, 6]
 
-driver = webdriver.Chrome(executable_path='chromedriver.exe')
+driver = webdriver.Firefox(executable_path='./geckodriver')
 
 teachers = {
 	"Sujata Ghatak": "Sujata  Ghatak( Bachelor of Computer Application )",
